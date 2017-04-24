@@ -1,0 +1,25 @@
+.jumbotron {
+	margin-bottom: 0px;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    background-image: url(Jumbo Justin.jpg);
+	background-position: 10% 35%;
+	background-size: cover;
+	background-repeat: no-repeat;
+	color: #FFFFFF;
+	text-shadow: 0em 0em 1em #E1DDDD;
+	background-attachment: fixed;
+	background-image: url(Jumbo%20Justin.jpg);
+}
