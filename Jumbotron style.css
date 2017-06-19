@@ -14,12 +14,12 @@
 
 
 
-    background-image: url(Jumbo Justin.jpg);
-	background-position: 10% 35%;
+    background-image: url(Eric F2.jpg);
+	background-position: 35% 35%;
 	background-size: cover;
 	background-repeat: no-repeat;
 	color: #FFFFFF;
 	text-shadow: 0em 0em 1em #E1DDDD;
-	background-attachment: fixed;
-	background-image: url(Jumbo%20Justin.jpg);
+	background-attachment: scroll;
+	background-image: url(Eric%20F2.jpg);
 }
